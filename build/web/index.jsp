@@ -12,10 +12,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Toko Spareparts</title>
     </head>
     <body>
-        <center><h1>Master Data Barang</h1></center>
+        <center><h1>Toko Spareparts</h1></center>
         <table style="margin:20px auto;" border="1">
         <tr>
             <td>
